@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Douglas Gonçalves
-- I live in :brazil:, Minas Gerais:sunrise_over_mountains:
+- I live in :brazil: Minas Gerais :sunrise_over_mountains:
 - Ciência Da Computação - 2° Periodo:computer:
 - Desenvolvimento Web | HTML | CSS:open_book::page_facing_up:
 ## Connect whith me:
