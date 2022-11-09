@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Douglas Gonçalves
 - I live in :brazil: Minas Gerais :sunrise_over_mountains:
-- Ciência Da Computação - 3° Periodo:computer:
+- Data Science | Ciência Da Computação - 5° Período:computer:
 - Desenvolvimento Web | HTML | CSS:open_book::page_facing_up:
 ## Connect whith me:
 <a href="https://www.linkedin.com/in/douglas-gon%C3%A7alves-a96663211/" rel="nofollow">
