@@ -6,13 +6,13 @@
 ### <div align="center">I'm Douglas, I work with data science and I'm studying computer science - 8° Período 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on Secretaria de Educação MG (https://www.linkedin.com/in/douglasdgb/)  
+- 🔭 I’m currently working on Secretaria de Coordenadoria Estadual de Gestão de Trânsito (CET-MG) (https://www.linkedin.com/in/douglasdgb/)  
   
 
 - 🌱 I’m currently learning Azure Devops and Machine Learning  
   
 
-- 👨‍💻 Future data analyst  
+- 👨‍💻 More than 3 years of specialized experience in data, report development, and management dashboards at the Innovation Advisory of the State Department of Education of Minas Gerais (SEE-MG), and currently at the Department of Planning and Traffic Management (CET-MG). I have knowledge in data engineering and statistics, skills in tools such as Excel, RStudio, Python, and SQL. Additionally, I have practical experience in using the Azure platform for data management. Committed to accuracy and efficiency in data analysis, providing valuable insights to optimize processes and promote decision-making.
   
 
 - 🎲 Without big data analytics, companies are blind and deaf, wandering to the Web like deer on a road.  
