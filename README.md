@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Douglas, I work with data science and I'm studying computer science - 5° Período 👨‍💻  🚀</div>  
+### <div align="center">I'm Douglas, I work with data science and I'm studying computer science - 8° Período 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently working on Secretaria de Educação MG (https://www.linkedin.com/in/douglasdgb/)  
